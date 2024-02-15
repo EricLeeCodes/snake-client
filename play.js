@@ -19,3 +19,5 @@ const handleUserInput = function(key) {
     process.exit();
   }
 };
+
+setupInput();
